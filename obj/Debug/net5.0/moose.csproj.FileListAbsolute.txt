@@ -1,0 +1,16 @@
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\bin\Debug\net5.0\moose.exe
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\bin\Debug\net5.0\moose.deps.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\bin\Debug\net5.0\moose.runtimeconfig.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\bin\Debug\net5.0\moose.runtimeconfig.dev.json
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\bin\Debug\net5.0\moose.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\bin\Debug\net5.0\ref\moose.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\bin\Debug\net5.0\moose.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.csproj.AssemblyReference.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.AssemblyInfoInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.AssemblyInfo.cs
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.csproj.CoreCompileInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\ref\moose.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\Cohort6\Back-End\moose\obj\Debug\net5.0\moose.genruntimeconfig.cache
